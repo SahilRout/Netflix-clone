@@ -2,7 +2,7 @@
 
 <img src="https://i.ibb.co/cw6xq4Z/image.png"/>
 
-### Try It Out : https://netflix-clone-ffb60.web.app
+### Try It Out : https://netflix-clone-ffb60.web.app/
 
 ## Features :fire:
 
