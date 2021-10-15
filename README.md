@@ -29,7 +29,7 @@
 
 ## Tech Stack
 
-:clapper: **Fron-end** React <br>
+:clapper: **Front-end** React <br>
 :clapper: **Back-end** Firebase<br>
 
 # Author
