@@ -5,9 +5,6 @@ import "./css/Details.css";
 function Details() {
   const location = useLocation();
   const movie = location.state;
-  function truncate(str, n) {
-    return str?.length > n ? str.substr(0, n - 1) + "..." : str;
-  }
   return (
     <div>
       <Nav />

@@ -1,13 +1,8 @@
 import './App.css';
-import Row from './components/Row';
-import requests from './api/requests';
-import Banner from './components/Banner';
-import Nav from './components/Nav';
 import {
   BrowserRouter as Router,
   Switch,
   Route,
-  Link
 } from "react-router-dom";
 import Home from './screens/Home';
 import Login from './screens/Login';
